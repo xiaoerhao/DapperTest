@@ -1,0 +1,10 @@
+E:\学习\代码\DapperTest\bin\Debug\DapperTest.exe.config
+E:\学习\代码\DapperTest\bin\Debug\DapperTest.exe
+E:\学习\代码\DapperTest\bin\Debug\DapperTest.pdb
+E:\学习\代码\DapperTest\bin\Debug\Dapper.dll
+E:\学习\代码\DapperTest\bin\Debug\Dapper.xml
+E:\学习\代码\DapperTest\obj\Debug\DapperTest.csprojAssemblyReference.cache
+E:\学习\代码\DapperTest\obj\Debug\DapperTest.csproj.CoreCompileInputs.cache
+E:\学习\代码\DapperTest\obj\Debug\DapperTest.csproj.CopyComplete
+E:\学习\代码\DapperTest\obj\Debug\DapperTest.exe
+E:\学习\代码\DapperTest\obj\Debug\DapperTest.pdb
